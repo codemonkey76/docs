@@ -1,0 +1,6 @@
+[book]
+authors = ["Shane Poppleton"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Documentation Test"
