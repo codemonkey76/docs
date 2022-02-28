@@ -1,3 +1,5 @@
-#Documentation website
+![Hazel](https://hazelengine.com/res/HazelLogoText.png)
 
-Hello, this is my homepage!
+# Documentation website
+
+Hello, this is my homepage! [I have another page here.](more/Another.md)
