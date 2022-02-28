@@ -2,4 +2,4 @@
 
 # Documentation website
 
-Hello, this is my homepage! [I have another page here.](more/Another.md)
+Hello, this is my homepage! [I have another page here.](more/AnotherPage.md)
